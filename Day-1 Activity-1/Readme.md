@@ -52,3 +52,11 @@ Table shows a Request message sub-function parameter definition
 #### Table defines the data-parameters of the response message. 
 
 ![Activity-2 f](https://user-images.githubusercontent.com/115522470/201651827-552d8a47-a209-4712-a876-27ba4a861557.png)
+
+### Supported negative response codes (NRC_)
+
+The following negative response codes shall be implemented for this service. The circumstances under which
+each response code would occur are documented in the Table. The listed negative responses shall be used if
+the error scenario applies to the server. 
+
+![Activity-2 g](https://user-images.githubusercontent.com/115522470/201652431-8dfe4eaf-7f95-492b-9518-8d78e51a7c0f.png)
