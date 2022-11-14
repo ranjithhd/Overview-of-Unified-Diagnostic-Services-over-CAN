@@ -18,3 +18,25 @@ Table defines the request message definition - sub-function = requestSeed.
 Table defines the request message definition - sub-function = sendKey. 
 
 ![Activity-2 b](https://user-images.githubusercontent.com/115522470/201647315-436e4a77-9330-4cd8-beb5-7d95184f3bf9.png)
+
+#### Request message sub-function parameter $Level (LEV_) definition
+
+The sub-function parameter securityAccessType indicates to the server the step in progress for this service,
+the level of security the client wants to access and the format of seed and key. If a server supports different
+levels of security each level shall be identified by the requestSeed value, which has a fixed relationship to the
+sendKey value:
+
+⎯ “requestSeed = 0x01” identifies a fixed relationship between “requestSeed = 0x01” and “sendKey = 0x02”
+
+⎯ “requestSeed = 0x03” identifies a fixed relationship between “requestSeed = 0x03” and “sendKey = 0x04”
+
+Table shows a Request message sub-function parameter definition
+
+![Activity-2 c](https://user-images.githubusercontent.com/115522470/201648308-8fd0cd68-a873-44c1-b5b8-1a646c4ee99a.png)
+
+### Request message data-parameter definition
+
+#### Table defines the data-parameters of the request message
+
+![Activity-2 d](https://user-images.githubusercontent.com/115522470/201649261-7fc21ac9-8c24-4a36-86be-80cb83350822.png)
+
