@@ -47,3 +47,8 @@ Table shows a Request message sub-function parameter definition
 
 ![Activity-2 e](https://user-images.githubusercontent.com/115522470/201651080-dd77cc92-159f-457d-8bde-88275d0ea83b.png)
 
+### Positive response message data-parameter definition
+
+#### Table defines the data-parameters of the response message. 
+
+![Activity-2 f](https://user-images.githubusercontent.com/115522470/201651827-552d8a47-a209-4712-a876-27ba4a861557.png)
