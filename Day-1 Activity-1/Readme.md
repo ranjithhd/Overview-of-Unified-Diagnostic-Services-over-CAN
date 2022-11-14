@@ -1,13 +1,13 @@
-## Day-1 Activity-1
+# Day-1 Activity-1
 
-### Understand the diagram and identify the service ids which are default and non-default diagnostic session
+## Understand the diagram and identify the service ids which are default and non-default diagnostic session
 
 ![activity-1](https://user-images.githubusercontent.com/115522470/201644978-16ffe88d-fe20-46e4-a360-857d105a7bb7.png)
 
 
-## Day-1 Activity-1
+# Day-1 Activity-1
 
-### Different Request message Definition and sub-function
+## Different Request message Definition and sub-function
 
 #### Request message definition
 
@@ -34,7 +34,7 @@ Table shows a Request message sub-function parameter definition
 
 ![Activity-2 c](https://user-images.githubusercontent.com/115522470/201648308-8fd0cd68-a873-44c1-b5b8-1a646c4ee99a.png)
 
-### Request message data-parameter definition
+## Request message data-parameter definition
 
 #### Table defines the data-parameters of the request message
 
